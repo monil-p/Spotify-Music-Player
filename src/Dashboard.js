@@ -6,12 +6,12 @@ import TrackResult from './TrackResult'
 import Player from './Player'
 
 const spotify = new SpotifyWebApi({
-    ClientId: '7cdc5de4c76342ca9bd684002e636582',
-    ClientSecret: '3500da3d87b54b17a81bb23057dc8e6b'
+    ClientId: INSERT HERE,
+    ClientSecret: INSERT HERE
 })
 
-const clientId = '7cdc5de4c76342ca9bd684002e636582';
-const clientSecret = '3500da3d87b54b17a81bb23057dc8e6b';
+const clientId = INSERT HERE;
+const clientSecret = INSERT HERE;
 
 console.log('Client ID:', clientId);
 console.log('Client Secret:', clientSecret);
